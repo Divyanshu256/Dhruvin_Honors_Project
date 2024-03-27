@@ -1,2 +1,3 @@
 # MediShelter
-Project for 6th and 7th Semester
+HONORS PROJECT FOR 5TH SEMESTER 
+USING MERN STACK
